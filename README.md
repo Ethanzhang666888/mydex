@@ -1,3 +1,4 @@
+<div align="center">
 # MyDex
 MyDex is a smart contract that implements a simple exchange between two tokens.
 
@@ -6,8 +7,9 @@ MyDex is a smart contract that implements a simple exchange between two tokens.
 
 # MyDexTest
 
+![image](https://github.com/user-attachments/assets/e79311b4-0c64-4e76-aed1-cb74f08661ca)
+
 MyDexTest is a smart contract that implements a simple exchange between two tokens.
-<div align="center">
 1. [Introduction](#introduction)
 2. [Table of Contents](#table-of-contents)
 3. [Foundry](#foundry)
