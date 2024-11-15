@@ -1,4 +1,3 @@
-<div align="center">
   
 # MyDex
 MyDex is a smart contract that implements a simple exchange between two tokens.
